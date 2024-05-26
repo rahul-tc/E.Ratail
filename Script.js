@@ -24,4 +24,4 @@ document.addEventListener("DOMContentLoaded", function () {
     document.write("<p>Salary: " + salary + "</p>");
     // You can replace the document.write statements with your actual saving logic
   }
-})
+});
